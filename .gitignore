@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+Makefile
+travis_qmake_gcc_cpp11_helgrind
+helgrind.log
+*.pro.user
